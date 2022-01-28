@@ -2,9 +2,9 @@ Package: regexcite
 Title: Demo for how to create a package DATA303
 Version: 0.0.0.9000
 Authors@R: 
-    person("Daniel", "Kwik", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Daniel", "Kwik", , "daniel_kwik@hotmail.com", role = c("aut", "cre"))
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
